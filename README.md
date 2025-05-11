@@ -1,4 +1,12 @@
+# 🚀 Ai Interview PrepWise
+
+> AI-powered mock interview preparation tool with real-time feedback.
+
+## 📸 Preview
 <div align="center">
+
+  ![Preview](https://blogger.googleusercontent.com/img/a/AVvXsEgrU45oPTU5hO1gVZUaEfwUZCl4eQ7uB63vsIjYKDIwE75kYONGso9OuQXNZaHCbKLGUPZFYHSsfRKLQcKraeXivazHzI6Ad-Q1eoL9WwhIn4OYIflbevnFgG6s_VfaVGI8pOoo66gmcCaeMoPHh4nVubRKJAwCxfYtIdUoXOupFRDezTRZqnVD4kpMyrI=w624-h318)
+ 
   <h3 align="center">Ai Interview Prepwise: A job interview preparation platform powered by Vapi AI Voice agents</h3>
   
   <div>
