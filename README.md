@@ -13,9 +13,8 @@
 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgrU45oPTU5hO1gVZUaEfwUZCl4eQ7uB63vsIjYKDIwE75kYONGso9OuQXNZaHCbKLGUPZFYHSsfRKLQcKraeXivazHzI6Ad-Q1eoL9WwhIn4OYIflbevnFgG6s_VfaVGI8pOoo66gmcCaeMoPHh4nVubRKJAwCxfYtIdUoXOupFRDezTRZqnVD4kpMyrI=w624-h318" alt="Preview" style="width:100%; max-width:100%;" />
 
 
+## <a name="live-demo"> 🚀 Live Demo [Live Website Link](https://prepwisemns.vercel.app/)
 
-  ![Preview](https://blogger.googleusercontent.com/img/a/AVvXsEgrU45oPTU5hO1gVZUaEfwUZCl4eQ7uB63vsIjYKDIwE75kYONGso9OuQXNZaHCbKLGUPZFYHSsfRKLQcKraeXivazHzI6Ad-Q1eoL9WwhIn4OYIflbevnFgG6s_VfaVGI8pOoo66gmcCaeMoPHh4nVubRKJAwCxfYtIdUoXOupFRDezTRZqnVD4kpMyrI=w624-h318)
-   
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -24,7 +23,6 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🚀 [Live Demo](#live-demo)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -119,6 +117,4 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="live-demo"> 🚀 Live Demo
 
-🔗 [Live Site](https://prepwisemns.vercel.app/)
