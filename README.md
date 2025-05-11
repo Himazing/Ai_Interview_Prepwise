@@ -115,6 +115,15 @@ Replace the placeholder values with your actual **[Firebase](https://firebase.go
 npm run dev
 ```
 
+## 📬 Contact
+
+Feel free to reach out to me through any of the following channels:
+
+- **Email**: [jhahim11@gmail.com](mailto:jhahim11@gmail.com)
+- **LinkedIn**: [linkedin.com/in/himazing](https://www.linkedin.com/in/himazing/)
+
+### 🔥 Made with ❤️ by **Himanshu Kumar**
+
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
 
