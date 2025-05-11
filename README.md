@@ -1,20 +1,17 @@
 # 🚀 Ai Interview PrepWise
 
 > AI-powered mock interview preparation tool with real-time feedback.
-
-## 📸 Preview
-<div align="center">
-
-  ![Preview](https://blogger.googleusercontent.com/img/a/AVvXsEgrU45oPTU5hO1gVZUaEfwUZCl4eQ7uB63vsIjYKDIwE75kYONGso9OuQXNZaHCbKLGUPZFYHSsfRKLQcKraeXivazHzI6Ad-Q1eoL9WwhIn4OYIflbevnFgG6s_VfaVGI8pOoo66gmcCaeMoPHh4nVubRKJAwCxfYtIdUoXOupFRDezTRZqnVD4kpMyrI=w624-h318)
- 
-  <h3 align="center">Ai Interview Prepwise: A job interview preparation platform powered by Vapi AI Voice agents</h3>
-  
-  <div>
+ <div>
     <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" />
     <img src="https://img.shields.io/badge/-Vapi-white?style=for-the-badge&color=5dfeca" alt="vapi" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
     <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logoColor=white&logo=firebase&color=DD2C00" alt="firebase" />
   </div>
+
+## 📸 Preview
+
+
+  ![Preview](https://blogger.googleusercontent.com/img/a/AVvXsEgrU45oPTU5hO1gVZUaEfwUZCl4eQ7uB63vsIjYKDIwE75kYONGso9OuQXNZaHCbKLGUPZFYHSsfRKLQcKraeXivazHzI6Ad-Q1eoL9WwhIn4OYIflbevnFgG6s_VfaVGI8pOoo66gmcCaeMoPHh4nVubRKJAwCxfYtIdUoXOupFRDezTRZqnVD4kpMyrI=w624-h318)
    
 </div>
 
@@ -24,6 +21,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
+5. 🚀 [Live Demo](#live-demo)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -117,3 +115,7 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+## <a name="live-demo"> 🚀 Live Demo
+
+🔗 [Live Site](https://prepwisemns.vercel.app/)
