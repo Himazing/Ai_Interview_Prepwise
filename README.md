@@ -10,7 +10,7 @@
   
 ## 📸 Preview
 
-<img src="https://blogger.googleusercontent.com/img/a/AVvXsEgrU45oPTU5hO1gVZUaEfwUZCl4eQ7uB63vsIjYKDIwE75kYONGso9OuQXNZaHCbKLGUPZFYHSsfRKLQcKraeXivazHzI6Ad-Q1eoL9WwhIn4OYIflbevnFgG6s_VfaVGI8pOoo66gmcCaeMoPHh4nVubRKJAwCxfYtIdUoXOupFRDezTRZqnVD4kpMyrI=w624-h318" alt="Preview" style="width:100%; max-width:100%;" />
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEi-DEUswcwhZa8FVms98TP5zhmqitDoF9WsUweUpwgbCEnrRhqD03UH7Iu0RMhEP9BiRrlV5K--gajuHyunlaY_-I0h14YdC8CmHuUJzxeh4vOAWfhc6h5Bv7NjRbVuNpdehul9dwoXi9sBUx316U113VcYfd_jrItuRmFKSl5sa8qteDfIzpZG3Fl1x24" alt="Preview" style="width:100%; max-width:100%;" />
 
 
 ## <a name="live-demo"> 🚀 Live Demo [Live Website Link](https://prepwisemns.vercel.app/)
