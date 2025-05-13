@@ -114,6 +114,7 @@ Replace the placeholder values with your actual **[Firebase](https://firebase.go
 ```bash
 npm run dev
 ```
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
 ## 📬 Contact
 
@@ -124,6 +125,6 @@ Feel free to reach out to me through any of the following channels:
 
 ### 🔥 Made with ❤️ by **Himanshu Kumar**
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
 
 
